@@ -1,2 +1,3 @@
 # AVA-MYBANK
-longban@mybank.cn
+Co-authored-by: longban <longban@mybank.cn>
+
